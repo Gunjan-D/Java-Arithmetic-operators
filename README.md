@@ -1,3 +1,13 @@
-# Java-Arithmetic-operators
-Use of arithmetic operators. 
-Logic:  Step 1: Start Step 2: First we have declared  a and b. The “a” and “b” are the 2 integers having values 2 and 5 respectively.  Step 3: Variables are declared for performing addition ,multiplication ,subtraction and division respectively.  Step 4: The respective outcomes for each of them have been printed. 
+Programs demonstrating use of Data types, Operators
+W.a.p for demonstrating the usage of built-in number functions in Python
+Answer: Some of the Built-in Number Functions in python are-
+Algorithm:-
+Step1→ start
+Step2→ usage of built-in number functions in Python
+Step3→stop
+
+i.	max = The largest of its arguments: the value closest to positive infinity
+CODE: 
+>>> max(67,97,937,90,38)
+937
+>>> 
